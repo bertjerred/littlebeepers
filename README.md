@@ -17,7 +17,16 @@ A minimalist, text-based virtual pet game where you create, care for, and listen
 * **Persistent Data**: All your pets and their histories are saved locally in a `pets.json` file.
 
 ---
-## Getting Started
+## Looking for precompiled executables?
+
+### Windows
+Go [here](https://github.com/bertjerred/littlebeepers/releases/tag/Windows)
+### MacOS
+* soon
+### Linux
+* soon
+
+## Or, just go straight Python:
 
 Follow these steps to get your own Little Beepers running on your local machine.
 

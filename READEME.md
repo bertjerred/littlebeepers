@@ -30,7 +30,7 @@ Follow these steps to get your own Little Beepers running on your local machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/bertjerred/littlebeepers.git](https://github.com/bertjerred/littlebeepers.git)
+    git clone https://github.com/bertjerred/littlebeepers.git
     cd littlebeepers
     ```
 
@@ -86,4 +86,5 @@ This script creates a miniature audio file of a selected pet's entire known voca
 * `voice.py`: Real-time audio generation and playback using `pygame`.
 * `pet_utils.py`: Helper functions for loading and saving pet data to `pets.json`.
 * `pet_dashboard.py`: The standalone statistical reporting tool.
+
 * `voice_sampler.py`: The standalone tool for generating `.wav` audio files.

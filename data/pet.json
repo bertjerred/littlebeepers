@@ -1,0 +1,9 @@
+{
+  "species": "TextCreature",
+  "default_traits": {
+    "vowel-loving": 5,
+    "consonant-curious": 5,
+    "punctuation-centric": 5
+  },
+  "notes": "This file defines the base template for new pets. Users can add or adjust traits."
+}

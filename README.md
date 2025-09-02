@@ -87,3 +87,6 @@ This script creates a miniature audio file of a selected pet's entire known voca
 * `pet_utils.py`: Helper functions for loading and saving pet data to `pets.json`.
 * `pet_dashboard.py`: The standalone statistical reporting tool.
 * `voice_sampler.py`: The standalone tool for generating `.wav` audio files.
+
+## Donations
+If you wish to make an optional donation, please do so [through PayPal](https://www.paypal.com/paypalme/bertjerred) or at my [Ko-Fi shop](https://ko-fi.com/bertjerred). Thank you.

@@ -19,12 +19,7 @@ A minimalist, text-based virtual pet game where you create, care for, and listen
 ---
 ## Looking for precompiled executables?
 
-### Windows
-Go [here](https://github.com/bertjerred/littlebeepers/releases/tag/Windows)
-### MacOS
-* soon
-### Linux
-* soon
+You can find them [here](https://github.com/bertjerred/littlebeepers/releases).
 
 ## Or, just go straight Python:
 

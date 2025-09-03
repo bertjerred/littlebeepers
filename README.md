@@ -2,6 +2,8 @@
 
 A minimalist, text-based virtual pet game where you create, care for, and listen to unique sound-making companions.
 
+Watch a one-minute video [here](https://youtu.be/CuAPst6-_Zw?si=8yRlem2dzkheCIPJ).
+
 ---
 ## About the Project
 

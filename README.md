@@ -9,6 +9,10 @@ Watch a one-minute video [here](https://youtu.be/CuAPst6-_Zw?si=8yRlem2dzkheCIPJ
 
 **Little Beepers** is a simple, command-line virtual pet experience built with Python. Instead of visual pets, you interact with "beepers"—small companions that communicate through unique sequences of sounds, or "words." The mood is quiet, gentle, and focused on companionship and auditory growth. Create a new friend, listen to its secret sound, and host playdates to watch its vocabulary evolve.
 
+### Known Issues
+
+These shall be addressed as necessary. There are certainly some as-yet un-implemented features hiding in the code, and a few minor cross-platform UI differences have been noted. These and many other elements of the Little Beeper universe can be further described in the project's [wiki](https://github.com/bertjerred/littlebeepers/wiki).
+
 ---
 ## Features
 

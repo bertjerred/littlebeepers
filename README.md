@@ -72,7 +72,7 @@ This script is a comprehensive reporting tool for viewing the status of your ent
 * **Features:**
     * Displays a high-level **summary** of your collection (total pets, active vs. released, etc.).
     * Generates detailed **individual reports** including age, time since last interaction, and a full social history of playdates.
-    * Saves these detailed reports as clean, readable **Markdown (`.md`) files** in a `reports/` directory.
+    * Saves these detailed reports as clean, readable **Markdown (`.md`) files** in a `reports/` directory. If you're unfamiliar with this format, try opening the report(s) with a Markdown viewer (e.g., on Windows, [Typedown](https://apps.microsoft.com/detail/9P8TCW4H2HB4?hl=en&gl=US&ocid=pdpshare) is nice).
 
 ### **Voice Sampler (`voice_sampler.py`)**
 
